@@ -1,8 +1,8 @@
 {
     "thresholds": {
-        "cpu": 15,
-        "memory": 15,
-        "disk": 15
+        "cpu": 80,
+        "memory": 75,
+        "disk": 90
     },
     "email": {
         "enabled": true,
