@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Secrets
+.env
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
